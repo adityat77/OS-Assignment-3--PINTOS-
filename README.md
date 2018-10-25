@@ -1,6 +1,8 @@
 Assignment
 3 Report ::: PINTOS
+
 Aditya Tewari 2018201082
+
 Sandeep Gupta 2018201076
 # Installing Pintos on Ubuntu
 :: Refer --> ​ https://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html
